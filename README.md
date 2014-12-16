@@ -1,6 +1,6 @@
 About NysInfo
 =======
-This is a NysAfy - a NysSystems WindowsArtifactory used to convert and save pages created using NysLte into .html files placing then in a named-network-repository.
+NysInfo is a NysAfy (NysSystems WindowsArtifactory), used to convert and save pages created using NysLte into .html files saving them as named-network-page-artifacts.
 
 About NysLte:
 ======
