@@ -1,5 +1,8 @@
 NysInfo
 =======
-This is a Windows Artifactory used to make pages created using NysLte available as .html files.
+This is a NysAfy - a NysSystems WindowsArtifactory used to convert and save pages created using NysLte into .html files placing then in a named-network-repository.
 
-It is used to make NysLte pages available on an internet site as artifacts within a named-network.
+About NysLte:
+NysLte is a plain-text PersonalInformationManager using no special markup, but is capable of creating interlinked pages within itself and in navigating to internet pages at selectable urls.
+
+
