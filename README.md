@@ -4,5 +4,5 @@ This is a NysAfy - a NysSystems WindowsArtifactory used to convert and save page
 
 About NysLte:
 ======
-NysLte is a plain-text PersonalInformationManager capable of creating interlinked pages within itself and at any browser locale specified by using its special limited markup.
+NysLte is a plain-text PersonalInformationManager capable of creating interlinked pages within itself and to navigate to named browser locales.
 
